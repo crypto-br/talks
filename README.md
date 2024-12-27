@@ -25,15 +25,16 @@ Este repositório tem como objetivo:
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          | Vídeo/Gravação |
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | --------------- | -------------- |
 | **SecBridge**    | H2HC 2024 | 2024 | Presencial (São Paulo) | [Link para Slides](#) |  |
-| **AWS: Da identificação a ação**    | AWS COMMUNITY DAY BRASIL 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](#) |  |
+| **AWS: Da identificação a ação**    | AWS COMMUNITY DAY BRASIL 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/AWS_COMMUNITY_DAY_2024/blob/main/conteudo/AWS_COMMUNITY_DAY_GO_2024.pdf) |  |
 | **OpenAI e DevSec: Como Automatizar a Correção de Vulnerabilidades**    | Join Community 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](#) |  |
-| **Automatizando correções de vulnerabildiades em código com OpenAI e Horusec**    | OWASP Chapter Goiânia 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](#) |  |
+| **Automatizando correções de vulnerabildiades em código com OpenAI e Horusec**    | OWASP Chapter Goiânia 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/owasp-go-2024/blob/main/OWASP-GO-2024-1.pdf) |  |
 | **Segurança em ambiente AWS - Mitigando riscos**    | AWS User Group Goiânia | 2024 | Online | [Link para Slides](#) |  |
+| **Simplificando o DevSecOps**    | DevOpsDays Goiânia | 2023 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/DevOpsDays_Goiania) |  |
 | **DevSecOps com OpenSource**    | TDC 2021 | 2021 | Online |  |  |
 | **AWS Security**    | 1 Meetup GYNSec | 2019 | Presencial (Goiânia) |  |  |
 | **Hackeando para fins acadêmicos**    | Campus Party Goiás | 2019 | Presencial (Goiânia) |  |  |
 | **Desvendando o mundo White Hacking**    | Campus Party Goiás | 2019 | Presencial (Goiânia) |  |  |
-| **Primeiros passos com Cloud AWS**    | Campus Party Goiás | 2019 | Presencial (Goiânia) |  |  |
+| **Primeiros passos com Cloud AWS**    | Campus Party Goiás | 2019 | Presencial (Goiânia) | [Repositório](https://github.com/crypto-br/CPGOIAS) |  |
 | **Conhecendo as ferramentas DevOps da AWS**    | Campus Party Goiás | 2019 | Presencial (Goiânia) |  |  |
 | **WannaCry on Campus Party**    | Campus Party Goiás | 2019 | Presencial (Goiânia) |  |  |
 | **Best DevOps Security Practices**    | 10 encontro DevOpsGO | 2019 | SENAC - Presencial (Goiânia) |  |  |
