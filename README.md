@@ -58,6 +58,6 @@ Se você tiver dúvidas, sugestões ou simplesmente quiser trocar uma ideia, me 
 
 - **LinkedIn**: [luizmachadoaws](https://linkedin.com/in/luizmachadoaws)  
 - **Twitter/X**: [@luizmachadoaws](https://x.com/luizmachadoaws)  
-- **Instagrma**: [@luizmachadoaws](https://instagram.com/luizmachadoaws)
+- **Instagram**: [@luizmachadoaws](https://instagram.com/luizmachadoaws)
 
 ---
