@@ -24,12 +24,14 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          | Vídeo/Gravação |
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | --------------- | -------------- |
-| **SecBridge**    | H2HC 2024 | 2024 | Presencial (São Paulo) | [Link para Slides](#) |  |
+| **SecBridge**    | H2HC 2024 | 2024 | Presencial (São Paulo) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/H2HC%20-%202024%20-%20Cloud%20Village%20-%20SecBridge.pdf) |  |
 | **AWS: Da identificação a ação**    | AWS COMMUNITY DAY BRASIL 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/AWS_COMMUNITY_DAY_2024/blob/main/conteudo/AWS_COMMUNITY_DAY_GO_2024.pdf) |  |
-| **OpenAI e DevSec: Como Automatizar a Correção de Vulnerabilidades**    | Join Community 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](#) |  |
+| **OpenAI e DevSec: Como Automatizar a Correção de Vulnerabilidades**    | Join Community 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/Join%20Community%202024.pdf) |  |
 | **Automatizando correções de vulnerabildiades em código com OpenAI e Horusec**    | OWASP Chapter Goiânia 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/owasp-go-2024/blob/main/OWASP-GO-2024-1.pdf) |  |
-| **Segurança em ambiente AWS - Mitigando riscos**    | AWS User Group Goiânia | 2024 | Online | [Link para Slides](#) |  |
+| **Segurança em ambiente AWS - Mitigando riscos**    | AWS User Group Goiânia | 2024 | Online | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/AWS%20UG%20GO%20-%20AWS%20Security.pdf) |  |
 | **Simplificando o DevSecOps**    | DevOpsDays Goiânia | 2023 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/DevOpsDays_Goiania) |  |
+| **Segurança em Nuvem**    | Join Community 2023 | 2023 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/JoinCommunity%202023.pptx-1.pdf) |  |
+| **Boas práticas em ambiente cloud**    | Resenha Tech 2023 | 2023 | Maxima Tech Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/ResenhaTech_2023.pptx.pdf) |  |
 | **DevSecOps com OpenSource**    | TDC 2021 | 2021 | Online |  |  |
 | **AWS Security**    | 1 Meetup GYNSec | 2019 | Presencial (Goiânia) |  |  |
 | **Hackeando para fins acadêmicos**    | Campus Party Goiás | 2019 | Presencial (Goiânia) |  |  |
