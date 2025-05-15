@@ -24,6 +24,7 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          | Vídeo/Gravação |
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | --------------- | -------------- |
+| **Quando a IA vira DevSecOps**    | Cloud + IA Summit Cerrado | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/cloud_summit_cerrado_2025/blob/main/CLOUD_SUMMIT_CERRADO_2025.pdf) |  |
 | **SecBridge**    | H2HC 2024 | 2024 | Presencial (São Paulo) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/H2HC%20-%202024%20-%20Cloud%20Village%20-%20SecBridge.pdf) |  |
 | **AWS: Da identificação a ação**    | AWS COMMUNITY DAY BRASIL 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/AWS_COMMUNITY_DAY_2024/blob/main/conteudo/AWS_COMMUNITY_DAY_GO_2024.pdf) |  |
 | **OpenAI e DevSec: Como Automatizar a Correção de Vulnerabilidades**    | Join Community 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/Join%20Community%202024.pdf) |  |
