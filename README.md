@@ -24,6 +24,7 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          | Vídeo/Gravação |
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | --------------- | -------------- |
+| **Segurança de dados - Protegendo o que importa**    | Prteira Tech | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/Seguran%C3%A7a%20Digital%20e%20Backup_%20Protegendo%20o%20que%20Importa.pdf) |  |
 | **Quando a IA vira DevSecOps**    | Cloud + IA Summit Cerrado | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/cloud_summit_cerrado_2025/blob/main/CLOUD_SUMMIT_CERRADO_2025.pdf) |  |
 | **SecBridge**    | H2HC 2024 | 2024 | Presencial (São Paulo) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/H2HC%20-%202024%20-%20Cloud%20Village%20-%20SecBridge.pdf) |  |
 | **AWS: Da identificação a ação**    | AWS COMMUNITY DAY BRASIL 2024 | 2024 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/AWS_COMMUNITY_DAY_2024/blob/main/conteudo/AWS_COMMUNITY_DAY_GO_2024.pdf) |  |
