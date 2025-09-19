@@ -24,6 +24,7 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | ---------------
+| **Por que dropei mais de 10 empresas**    | Join Community | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/JOIN_COMMUNITY_2025_KEYNOTE.pdf) |  |
 | **Fundamentos de segurança na AWS**    | Bootcamp Menina de Cybersec | 2025 | Online | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/BOOTCAMP%20-%20MCS%20-%20D3.pdf) |  |
 | **Introdução a AWS - Visão geral**    | Bootcamp Menina de Cybersec | 2025 | Online | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/BOOTCAMP%20-%20MCS-1.pdf) |  |
 | **Segurança de dados - Protegendo o que importa**    | Prteira Tech | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/Seguran%C3%A7a%20Digital%20e%20Backup_%20Protegendo%20o%20que%20Importa.pdf) |  |
