@@ -24,6 +24,7 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | ---------------
+| **Do estágio ao mercado: Com ganhar relevancia na faculdade**    | Universidade Paulista (UNIP) | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/UNIP_CARREIRA.pdf) |  |
 | **Por que dropei mais de 10 empresas**    | Join Community | 2025 | Presencial (Goiânia) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/JOIN_COMMUNITY_2025_KEYNOTE.pdf) |  |
 | **Fundamentos de segurança na AWS**    | Bootcamp Menina de Cybersec | 2025 | Online | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/BOOTCAMP%20-%20MCS%20-%20D3.pdf) |  |
 | **Introdução a AWS - Visão geral**    | Bootcamp Menina de Cybersec | 2025 | Online | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/BOOTCAMP%20-%20MCS-1.pdf) |  |
