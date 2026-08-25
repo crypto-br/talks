@@ -24,6 +24,7 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | ---------------
+| **Nuvem não é o limite, Como construir sua carreira em tech**    | Semana Tech | 2026 | Presencial (Goiânia - UNICEUG) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/Nuvem_Nao_e_o_limite.pdf) |  |
 | **Seu agente tem AdminisratorAccess, você sabia ?**    | AWS Community Day Brasil | 2026 | Presencial (Taguatinga/Brasilia - UniProjeção) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/AWS_Community_Day_BSB_2026.pdf) |  |
 | **O que acontece em Vegas, a gente conta no re:Cap**    | AWS User Group Goiânia | 2026 | Presencial (Goiânia - Hub Goiás) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/AWS%20RECAP%202026.pdf) |  |
 | **Serverless e liderança: entregando valor rápido sem perder o controle**    | ServerlessDays SP | 2025 | Presencial (São Paulo - Cubo Itau) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/SERVERLESSDAYS_SP_2025.pdf) |  |
