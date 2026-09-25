@@ -24,6 +24,7 @@ Este repositório tem como objetivo:
 
 | Título da Palestra | Evento/Organização               | Data       | Local/Plataforma             | Slides          
 | ------------------ | --------------------------------- | ---------- | ---------------------------- | ---------------
+| **Construindo sua carreira em tech sem ter certeza do caminho**    | AWS Tech Day Anápolis / AWS User Group Anápolis | 2026 | Presencial (Anápolis - UniEvangélica) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/nuvem-nao-e-limite.pdf) |  |
 | **Seu agente tem AdminisratorAccess**    | AWS Summit SP | 2026 | Presencial (São Paulo - Expo Center) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/DEV303_AWS_SUMMIT_SP_26.pdf) |  |
 | **Nuvem não é o limite, Como construir sua carreira em tech**    | Semana Tech | 2026 | Presencial (Goiânia - UNICEUG) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/Nuvem_Nao_e_o_limite.pdf) |  |
 | **Seu agente tem AdminisratorAccess, você sabia ?**    | AWS Community Day Brasil | 2026 | Presencial (Taguatinga/Brasilia - UniProjeção) | [Link para Slides](https://github.com/crypto-br/talks/blob/main/slides/AWS_Community_Day_BSB_2026.pdf) |  |
